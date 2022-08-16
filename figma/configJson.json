@@ -1,0 +1,13 @@
+{
+    "source": ["figma/input.json"],
+    "platforms": {
+      "css": {
+        "files": [
+          {
+            "destination": "tokens/Figma.json",
+            "format": "json"
+          }
+        ]
+      }
+    }
+  }

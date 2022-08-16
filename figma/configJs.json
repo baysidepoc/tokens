@@ -1,0 +1,14 @@
+{
+    "source": ["figma/input.json"],
+    "platforms": {
+      "css": {
+        "transformGroup": "js",
+        "files": [
+          {
+            "destination": "tokens/Figma.js",
+            "format": "javascript/es6"
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,29 @@
+{
+  "name": "@baysidepoc/tokens",
+  "version": "1.0.0",
+  "description": "Design Tokens",
+  "main": "tokens/Figma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transform": "npx token-transformer figma/figmaTokens.json figma/input.json",
+    "build": "npm run transform && npx style-dictionary build --config figma/configJs.json",
+    "build_css": "npm run transform && npx style-dictionary build --config figma/configCss.json",
+    "build_json": "npm run transform && npx style-dictionary build --config figma/configJson.json",
+    "build_android": "",
+    "build_ios": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baysidepoc/tokens.git"
+  },
+  "keywords": [
+    "Design",
+    "Tokens"
+  ],
+  "author": "GCF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baysidepoc/tokens/issues"
+  },
+  "homepage": "https://github.com/baysidepoc/tokens#readme"
+}
