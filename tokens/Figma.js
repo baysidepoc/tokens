@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 Aug 2022 22:31:36 GMT
+ * Generated on Wed, 17 Aug 2022 21:56:19 GMT
  */
 
 export const TokenSetOrder0 = "zoox_brand";
@@ -11,8 +11,8 @@ export const ThemePrimary = "#262628";
 export const ThemeSecondary = "#121212";
 export const ThemeBackground = "#0B0B0B";
 export const ThemeLine = "#575757";
-export const ThemeText = "#fff";
-export const OpsElement1 = "#2969ff";
+export const ThemeText = "#ffffff";
+export const OpsElement1 = "#ff29fc";
 export const OpsElement2 = "#3f66ad";
 export const OpsElement3 = "#c4cce2";
 export const OpsElement4 = "#8d58fe";
