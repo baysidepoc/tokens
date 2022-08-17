@@ -794,7 +794,7 @@
   "ops_default": {
     "ops": {
       "element1": {
-        "value": "#ff29fc",
+        "value": "#2969ff",
         "type": "color"
       },
       "element2": {
