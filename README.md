@@ -61,10 +61,17 @@ npm run build
 npm version <versionNumber>
 ```
 
+2. Be sure you are logged in inside the terminal (not just the browser)
+```
+npm login
+```
+
 2. Publish to NPM
 ```
 npm publish --access public
 ```
+
+
 
 <br/><br/>
 <hr/>
