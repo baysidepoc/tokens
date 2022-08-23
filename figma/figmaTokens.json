@@ -827,7 +827,7 @@
       },
       "action1": {
         "default": {
-          "value": "#ff00ff",
+          "value": "#2969ff",
           "type": "color"
         },
         "dark": {
