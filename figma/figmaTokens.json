@@ -794,7 +794,7 @@
   "ops_base": {
     "ops": {
       "status1": {
-        "value": "#33ffc7",
+        "value": "{brand.primary.zoox}",
         "type": "color"
       },
       "status2": {
@@ -827,7 +827,7 @@
       },
       "action1": {
         "default": {
-          "value": "#2969ff",
+          "value": "#ff00ff",
           "type": "color"
         },
         "dark": {
