@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Aug 2022 19:04:53 GMT
+ * Generated on Tue, 23 Aug 2022 22:08:09 GMT
  */
 
 export const TokenSetOrder0 = "zoox_brand";
@@ -77,7 +77,7 @@ export const OpsRawColorsPurple600 = "#6630f5";
 export const OpsRawColorsPurple700 = "#5427ec";
 export const OpsRawColorsPurple800 = "#3f20e7";
 export const OpsRawColorsPurple900 = "#1312d8";
-export const BrandPrimaryZoox = "#33ffc7";
+export const BrandPrimaryZoox = "#33ffc0";
 export const BrandPrimaryBlack = "#000000";
 export const BrandPrimaryForest = "#5e8479";
 export const BrandPrimaryAcqua = "#338f82";
