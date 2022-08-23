@@ -71,7 +71,10 @@ npm login
 npm publish --access public
 ```
 
-
+3. Update in Storybook (or any other app)
+```
+npm i @baysidepoc/tokens
+```
 
 <br/><br/>
 <hr/>
