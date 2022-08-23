@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Aug 2022 21:50:43 GMT
+ * Generated on Tue, 23 Aug 2022 19:04:53 GMT
  */
 
 export const TokenSetOrder0 = "zoox_brand";
